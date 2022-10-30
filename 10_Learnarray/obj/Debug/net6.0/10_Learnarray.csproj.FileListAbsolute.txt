@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\10_Learnarray\bin\Debug\net6.0\10_Learnarray.exe
+C:\Users\ASUS\C_Sharp\10_Learnarray\bin\Debug\net6.0\10_Learnarray.deps.json
+C:\Users\ASUS\C_Sharp\10_Learnarray\bin\Debug\net6.0\10_Learnarray.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\10_Learnarray\bin\Debug\net6.0\10_Learnarray.dll
+C:\Users\ASUS\C_Sharp\10_Learnarray\bin\Debug\net6.0\10_Learnarray.pdb
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\10_Learnarray.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\10_Learnarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\10_Learnarray.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\10_Learnarray.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\10_Learnarray.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\10_Learnarray.dll
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\refint\10_Learnarray.dll
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\10_Learnarray.pdb
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\10_Learnarray.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\10_Learnarray\obj\Debug\net6.0\ref\10_Learnarray.dll

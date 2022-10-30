@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\01_iosimple\bin\Debug\net6.0\iosimple.exe
+C:\Users\ASUS\C_Sharp\01_iosimple\bin\Debug\net6.0\iosimple.deps.json
+C:\Users\ASUS\C_Sharp\01_iosimple\bin\Debug\net6.0\iosimple.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\01_iosimple\bin\Debug\net6.0\iosimple.dll
+C:\Users\ASUS\C_Sharp\01_iosimple\bin\Debug\net6.0\iosimple.pdb
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\iosimple.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\iosimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\iosimple.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\iosimple.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\iosimple.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\iosimple.dll
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\refint\iosimple.dll
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\iosimple.pdb
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\iosimple.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\01_iosimple\obj\Debug\net6.0\ref\iosimple.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\04_Learnconditon\bin\Debug\net6.0\04_Learnconditon.exe
+C:\Users\ASUS\C_Sharp\04_Learnconditon\bin\Debug\net6.0\04_Learnconditon.deps.json
+C:\Users\ASUS\C_Sharp\04_Learnconditon\bin\Debug\net6.0\04_Learnconditon.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\04_Learnconditon\bin\Debug\net6.0\04_Learnconditon.dll
+C:\Users\ASUS\C_Sharp\04_Learnconditon\bin\Debug\net6.0\04_Learnconditon.pdb
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\04_Learnconditon.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\04_Learnconditon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\04_Learnconditon.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\04_Learnconditon.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\04_Learnconditon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\04_Learnconditon.dll
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\refint\04_Learnconditon.dll
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\04_Learnconditon.pdb
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\04_Learnconditon.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\04_Learnconditon\obj\Debug\net6.0\ref\04_Learnconditon.dll

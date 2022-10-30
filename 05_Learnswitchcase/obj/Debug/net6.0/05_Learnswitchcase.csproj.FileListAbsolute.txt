@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\bin\Debug\net6.0\05_Learnswitchcase.exe
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\bin\Debug\net6.0\05_Learnswitchcase.deps.json
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\bin\Debug\net6.0\05_Learnswitchcase.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\bin\Debug\net6.0\05_Learnswitchcase.dll
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\bin\Debug\net6.0\05_Learnswitchcase.pdb
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\05_Learnswitchcase.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\05_Learnswitchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\05_Learnswitchcase.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\05_Learnswitchcase.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\05_Learnswitchcase.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\05_Learnswitchcase.dll
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\refint\05_Learnswitchcase.dll
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\05_Learnswitchcase.pdb
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\05_Learnswitchcase.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\05_Learnswitchcase\obj\Debug\net6.0\ref\05_Learnswitchcase.dll

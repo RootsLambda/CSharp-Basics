@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\02_Variable\bin\Debug\net6.0\02_Variable.exe
+C:\Users\ASUS\C_Sharp\02_Variable\bin\Debug\net6.0\02_Variable.deps.json
+C:\Users\ASUS\C_Sharp\02_Variable\bin\Debug\net6.0\02_Variable.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\02_Variable\bin\Debug\net6.0\02_Variable.dll
+C:\Users\ASUS\C_Sharp\02_Variable\bin\Debug\net6.0\02_Variable.pdb
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\02_Variable.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\02_Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\02_Variable.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\02_Variable.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\02_Variable.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\02_Variable.dll
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\refint\02_Variable.dll
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\02_Variable.pdb
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\02_Variable.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\02_Variable\obj\Debug\net6.0\ref\02_Variable.dll

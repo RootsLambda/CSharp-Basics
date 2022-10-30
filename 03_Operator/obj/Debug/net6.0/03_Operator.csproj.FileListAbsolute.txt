@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\03_Operator\bin\Debug\net6.0\03_Operator.exe
+C:\Users\ASUS\C_Sharp\03_Operator\bin\Debug\net6.0\03_Operator.deps.json
+C:\Users\ASUS\C_Sharp\03_Operator\bin\Debug\net6.0\03_Operator.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\03_Operator\bin\Debug\net6.0\03_Operator.dll
+C:\Users\ASUS\C_Sharp\03_Operator\bin\Debug\net6.0\03_Operator.pdb
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\03_Operator.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\03_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\03_Operator.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\03_Operator.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\03_Operator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\03_Operator.dll
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\refint\03_Operator.dll
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\03_Operator.pdb
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\03_Operator.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\03_Operator\obj\Debug\net6.0\ref\03_Operator.dll
