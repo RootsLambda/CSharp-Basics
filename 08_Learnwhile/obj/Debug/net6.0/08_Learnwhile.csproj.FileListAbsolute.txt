@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\08_Learnwhile\bin\Debug\net6.0\08_Learnwhile.exe
+C:\Users\ASUS\C_Sharp\08_Learnwhile\bin\Debug\net6.0\08_Learnwhile.deps.json
+C:\Users\ASUS\C_Sharp\08_Learnwhile\bin\Debug\net6.0\08_Learnwhile.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\08_Learnwhile\bin\Debug\net6.0\08_Learnwhile.dll
+C:\Users\ASUS\C_Sharp\08_Learnwhile\bin\Debug\net6.0\08_Learnwhile.pdb
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\08_Learnwhile.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\08_Learnwhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\08_Learnwhile.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\08_Learnwhile.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\08_Learnwhile.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\08_Learnwhile.dll
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\refint\08_Learnwhile.dll
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\08_Learnwhile.pdb
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\08_Learnwhile.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\08_Learnwhile\obj\Debug\net6.0\ref\08_Learnwhile.dll

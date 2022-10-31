@@ -1,26 +1,34 @@
-﻿using System;
+﻿// File learnstruct.cs
+// Learn structured data
+
+/*-----------Syntax--------------*/
+// struct <name_struct> {
+//        <keyword 1> <data_type> <variable 1 or array 1>;
+//        <keyword 2> <data_type> <variable 2 or array 2>;
+//        ......
+// }
+
+using System;
 namespace Learnstruct
 {
     class Program
     {
-        struct SinhVien
+        struct Student
                 {
-                    public int Maso;
-                    public string Hoten;
-
-                
+                    public int id;
+                    public string Name;
                 }
-        static void NhapThongtinsinhvien(SinhVien SV)
+
+        static void  Info(Student St)
         {
-             Console.Write("Ma so");
-             SV.Maso=int.Parse(Console.ReadLine());
-
-
+             Console.Write("ID: ");
+             St.id=int.Parse(Console.ReadLine());
         }
+        
         static void Main(string[] args)
         {
-              SinhVien SV1 =new SinhVien();
-              NhapThongtinsinhvien(SV1);  
+              Student St1 =new Student();
+              Info(St1);  
 
         }
     }

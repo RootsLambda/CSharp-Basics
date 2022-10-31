@@ -4,7 +4,7 @@
 /*-------------Note------------*/
 // 1. Variables need to be declared first
 // 2. Format number we use the character {}, + 
-
+// 3. Explicit, Implicit, built-in method for squeezing
 
 using System;
 namespace Operator
@@ -19,14 +19,14 @@ namespace Operator
         Console.WriteLine("Add: {0}",a+b);
         Console.WriteLine("Subtract: {0}",a-b);
         Console.WriteLine("Mutily: {0}",a*b);
-        Console.WriteLine("Divide: "+a/b);
+        Console.WriteLine("Divide: "+(float)a/b);
 
         // 2.Comparison expression
         float c=4.5f, d=3.4f;
-        Console.WriteLine("Operator '>' is greater: %d\n",c>d);
-        Console.WriteLine("Operator '<' is less: %d\n",c<d);
-        Console.WriteLine("Operator '==' is equality: %d\n",c==d);
-        Console.WriteLine("Operator '!=' is not equality: %d\n",c!=d);
+        Console.WriteLine("Operator '>' is greater: {0}",c>d);
+        Console.WriteLine("Operator '<' is less: {0}",c<d);
+        Console.WriteLine("Operator '==' is equality: {0}",c==d);
+        Console.WriteLine("Operator '!=' is not equality: {0}",c!=d);
 
         // 3.Logical operator
 
@@ -38,23 +38,15 @@ namespace Operator
         // 4. Complex expression
          int r = 3;
          double area = 3.14*r*r;
-         Console.WriteLine("Area is cricle: %f", area);
+         Console.WriteLine("Area is cricle: {0}", area);
 
-        // Ep kieu
-        // Chuyen doi ngam dinh 
-        // Chuyen doi tuong minh
+        // 5.Squeeze style
+    
         int g =300;
         byte h =(byte)g;
 
-        Console.WriteLine(e);
-        Console.WriteLine(r);
-        int m=5;
-        int n=2;
-        float tt;
-        tt=(float)m/n;
-
-
-        // Su dung phuong thuc, lop ho tro sẵn'
+        // Use built-in methods and classes
+        
         string s="10";
         int k=int.Parse(s);
         double w=double.Parse("10.9");
@@ -65,8 +57,6 @@ namespace Operator
         aa=int.TryParse(Data1,out Result);
 
         int val= Convert.ToInt32("9");
-
-        // Người dùng tự định nghĩa chuyển đổi
 
 
 

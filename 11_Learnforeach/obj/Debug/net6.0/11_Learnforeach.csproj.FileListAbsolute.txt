@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\11_Learnforeach\bin\Debug\net6.0\11_Learnforeach.exe
+C:\Users\ASUS\C_Sharp\11_Learnforeach\bin\Debug\net6.0\11_Learnforeach.deps.json
+C:\Users\ASUS\C_Sharp\11_Learnforeach\bin\Debug\net6.0\11_Learnforeach.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\11_Learnforeach\bin\Debug\net6.0\11_Learnforeach.dll
+C:\Users\ASUS\C_Sharp\11_Learnforeach\bin\Debug\net6.0\11_Learnforeach.pdb
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\11_Learnforeach.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\11_Learnforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\11_Learnforeach.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\11_Learnforeach.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\11_Learnforeach.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\11_Learnforeach.dll
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\refint\11_Learnforeach.dll
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\11_Learnforeach.pdb
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\11_Learnforeach.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\11_Learnforeach\obj\Debug\net6.0\ref\11_Learnforeach.dll

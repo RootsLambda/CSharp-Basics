@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\12_Learnstruct\bin\Debug\net6.0\12_Learnstruct.exe
+C:\Users\ASUS\C_Sharp\12_Learnstruct\bin\Debug\net6.0\12_Learnstruct.deps.json
+C:\Users\ASUS\C_Sharp\12_Learnstruct\bin\Debug\net6.0\12_Learnstruct.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\12_Learnstruct\bin\Debug\net6.0\12_Learnstruct.dll
+C:\Users\ASUS\C_Sharp\12_Learnstruct\bin\Debug\net6.0\12_Learnstruct.pdb
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\12_Learnstruct.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\12_Learnstruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\12_Learnstruct.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\12_Learnstruct.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\12_Learnstruct.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\12_Learnstruct.dll
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\refint\12_Learnstruct.dll
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\12_Learnstruct.pdb
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\12_Learnstruct.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\12_Learnstruct\obj\Debug\net6.0\ref\12_Learnstruct.dll

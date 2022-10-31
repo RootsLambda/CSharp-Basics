@@ -1,4 +1,17 @@
-﻿using System;
+﻿// File learnfor.cs
+// Structure Loop goto and for
+
+/*-----------Syntax--------------*/
+// 1. goto Label;
+//    Label:
+//      <statement>;
+
+// 2. for(start_variable_loop,end_variable_loop,step)
+//   {
+//    <statement>;
+//   }
+
+using System;
 namespace Learnfor
 {
     class Program
@@ -6,15 +19,15 @@ namespace Learnfor
         static void Main(string[] arg)
         {
             
-            goto dara;
-            Console.WriteLine("HowKteam.com");
-            dara:
-            Console.WriteLine("Free Education");
+            goto Label;
+                Console.WriteLine("Roots");
+            Label:
+                Console.WriteLine("Lambda");
 
-            for(int i=0; i<10;i++)
-            {
-                Console.WriteLine(i);
-            }
+            int sum =0;
+            for (int k=1; k<10;k++)
+                sum =sum + k;
+            Console.WriteLine(sum);
         }
     }
 }
