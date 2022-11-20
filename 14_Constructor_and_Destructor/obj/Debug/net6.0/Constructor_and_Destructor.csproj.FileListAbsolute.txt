@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\bin\Debug\net6.0\Constructor_and_Destructor.exe
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\bin\Debug\net6.0\Constructor_and_Destructor.deps.json
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\bin\Debug\net6.0\Constructor_and_Destructor.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\bin\Debug\net6.0\Constructor_and_Destructor.dll
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\bin\Debug\net6.0\Constructor_and_Destructor.pdb
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\Constructor_and_Destructor.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\Constructor_and_Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\Constructor_and_Destructor.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\Constructor_and_Destructor.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\Constructor_and_Destructor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\Constructor_and_Destructor.dll
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\refint\Constructor_and_Destructor.dll
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\Constructor_and_Destructor.pdb
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\Constructor_and_Destructor.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\Constructor_and_Destructor\obj\Debug\net6.0\ref\Constructor_and_Destructor.dll
