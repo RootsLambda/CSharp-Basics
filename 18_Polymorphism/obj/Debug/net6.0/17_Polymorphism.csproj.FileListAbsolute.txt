@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\17_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\17_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\17_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\17_Polymorphism.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\17_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\17_Polymorphism\bin\Debug\net6.0\17_Polymorphism.exe
+C:\Users\ASUS\C_Sharp\17_Polymorphism\bin\Debug\net6.0\17_Polymorphism.deps.json
+C:\Users\ASUS\C_Sharp\17_Polymorphism\bin\Debug\net6.0\17_Polymorphism.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\17_Polymorphism\bin\Debug\net6.0\17_Polymorphism.dll
+C:\Users\ASUS\C_Sharp\17_Polymorphism\bin\Debug\net6.0\17_Polymorphism.pdb
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\17_Polymorphism.dll
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\refint\17_Polymorphism.dll
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\17_Polymorphism.pdb
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\17_Polymorphism.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\17_Polymorphism\obj\Debug\net6.0\ref\17_Polymorphism.dll
