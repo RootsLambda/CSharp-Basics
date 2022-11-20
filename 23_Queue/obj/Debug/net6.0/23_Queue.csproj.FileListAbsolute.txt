@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\23_Queue\bin\Debug\net6.0\23_Queue.exe
+C:\Users\ASUS\C_Sharp\23_Queue\bin\Debug\net6.0\23_Queue.deps.json
+C:\Users\ASUS\C_Sharp\23_Queue\bin\Debug\net6.0\23_Queue.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\23_Queue\bin\Debug\net6.0\23_Queue.dll
+C:\Users\ASUS\C_Sharp\23_Queue\bin\Debug\net6.0\23_Queue.pdb
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\23_Queue.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\23_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\23_Queue.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\23_Queue.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\23_Queue.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\23_Queue.dll
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\refint\23_Queue.dll
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\23_Queue.pdb
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\23_Queue.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\23_Queue\obj\Debug\net6.0\ref\23_Queue.dll

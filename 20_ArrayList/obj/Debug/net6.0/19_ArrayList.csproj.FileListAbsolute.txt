@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\19_ArrayList\bin\Debug\net6.0\19_ArrayList.exe
+C:\Users\ASUS\C_Sharp\19_ArrayList\bin\Debug\net6.0\19_ArrayList.deps.json
+C:\Users\ASUS\C_Sharp\19_ArrayList\bin\Debug\net6.0\19_ArrayList.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\19_ArrayList\bin\Debug\net6.0\19_ArrayList.dll
+C:\Users\ASUS\C_Sharp\19_ArrayList\bin\Debug\net6.0\19_ArrayList.pdb
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\19_ArrayList.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\19_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\19_ArrayList.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\19_ArrayList.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\19_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\19_ArrayList.dll
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\refint\19_ArrayList.dll
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\19_ArrayList.pdb
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\19_ArrayList.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\19_ArrayList\obj\Debug\net6.0\ref\19_ArrayList.dll

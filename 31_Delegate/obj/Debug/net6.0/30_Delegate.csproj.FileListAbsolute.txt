@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\30_Delegate\bin\Debug\net6.0\30_Delegate.exe
+C:\Users\ASUS\C_Sharp\30_Delegate\bin\Debug\net6.0\30_Delegate.deps.json
+C:\Users\ASUS\C_Sharp\30_Delegate\bin\Debug\net6.0\30_Delegate.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\30_Delegate\bin\Debug\net6.0\30_Delegate.dll
+C:\Users\ASUS\C_Sharp\30_Delegate\bin\Debug\net6.0\30_Delegate.pdb
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\30_Delegate.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\30_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\30_Delegate.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\30_Delegate.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\30_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\30_Delegate.dll
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\refint\30_Delegate.dll
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\30_Delegate.pdb
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\30_Delegate.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\30_Delegate\obj\Debug\net6.0\ref\30_Delegate.dll

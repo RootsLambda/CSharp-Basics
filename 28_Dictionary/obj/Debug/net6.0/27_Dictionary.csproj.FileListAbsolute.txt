@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\27_Dictionary\bin\Debug\net6.0\27_Dictionary.exe
+C:\Users\ASUS\C_Sharp\27_Dictionary\bin\Debug\net6.0\27_Dictionary.deps.json
+C:\Users\ASUS\C_Sharp\27_Dictionary\bin\Debug\net6.0\27_Dictionary.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\27_Dictionary\bin\Debug\net6.0\27_Dictionary.dll
+C:\Users\ASUS\C_Sharp\27_Dictionary\bin\Debug\net6.0\27_Dictionary.pdb
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\27_Dictionary.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\27_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\27_Dictionary.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\27_Dictionary.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\27_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\27_Dictionary.dll
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\refint\27_Dictionary.dll
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\27_Dictionary.pdb
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\27_Dictionary.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\27_Dictionary\obj\Debug\net6.0\ref\27_Dictionary.dll

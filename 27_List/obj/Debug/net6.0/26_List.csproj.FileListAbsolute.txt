@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\26_List\bin\Debug\net6.0\26_List.exe
+C:\Users\ASUS\C_Sharp\26_List\bin\Debug\net6.0\26_List.deps.json
+C:\Users\ASUS\C_Sharp\26_List\bin\Debug\net6.0\26_List.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\26_List\bin\Debug\net6.0\26_List.dll
+C:\Users\ASUS\C_Sharp\26_List\bin\Debug\net6.0\26_List.pdb
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\26_List.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\26_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\26_List.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\26_List.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\26_List.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\26_List.dll
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\refint\26_List.dll
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\26_List.pdb
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\26_List.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\26_List\obj\Debug\net6.0\ref\26_List.dll

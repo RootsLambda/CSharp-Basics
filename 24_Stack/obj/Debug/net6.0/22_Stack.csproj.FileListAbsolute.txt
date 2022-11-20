@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\22_Stack\bin\Debug\net6.0\22_Stack.exe
+C:\Users\ASUS\C_Sharp\22_Stack\bin\Debug\net6.0\22_Stack.deps.json
+C:\Users\ASUS\C_Sharp\22_Stack\bin\Debug\net6.0\22_Stack.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\22_Stack\bin\Debug\net6.0\22_Stack.dll
+C:\Users\ASUS\C_Sharp\22_Stack\bin\Debug\net6.0\22_Stack.pdb
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\22_Stack.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\22_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\22_Stack.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\22_Stack.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\22_Stack.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\22_Stack.dll
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\refint\22_Stack.dll
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\22_Stack.pdb
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\22_Stack.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\22_Stack\obj\Debug\net6.0\ref\22_Stack.dll
