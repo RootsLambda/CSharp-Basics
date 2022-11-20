@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\16_Inheritance\bin\Debug\net6.0\16_Inheritance.exe
+C:\Users\ASUS\C_Sharp\16_Inheritance\bin\Debug\net6.0\16_Inheritance.deps.json
+C:\Users\ASUS\C_Sharp\16_Inheritance\bin\Debug\net6.0\16_Inheritance.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\16_Inheritance\bin\Debug\net6.0\16_Inheritance.dll
+C:\Users\ASUS\C_Sharp\16_Inheritance\bin\Debug\net6.0\16_Inheritance.pdb
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\16_Inheritance.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\16_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\16_Inheritance.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\16_Inheritance.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\16_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\16_Inheritance.dll
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\refint\16_Inheritance.dll
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\16_Inheritance.pdb
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\16_Inheritance.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\16_Inheritance\obj\Debug\net6.0\ref\16_Inheritance.dll
