@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\bin\Debug\net6.0\15_Keywordstatic.exe
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\bin\Debug\net6.0\15_Keywordstatic.deps.json
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\bin\Debug\net6.0\15_Keywordstatic.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\bin\Debug\net6.0\15_Keywordstatic.dll
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\bin\Debug\net6.0\15_Keywordstatic.pdb
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\15_Keywordstatic.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\15_Keywordstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\15_Keywordstatic.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\15_Keywordstatic.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\15_Keywordstatic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\15_Keywordstatic.dll
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\refint\15_Keywordstatic.dll
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\15_Keywordstatic.pdb
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\15_Keywordstatic.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\15_Keywordstatic\obj\Debug\net6.0\ref\15_Keywordstatic.dll
