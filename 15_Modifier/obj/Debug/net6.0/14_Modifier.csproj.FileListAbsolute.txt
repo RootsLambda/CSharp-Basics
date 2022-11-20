@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\14_Modifier\bin\Debug\net6.0\14_Modifier.exe
+C:\Users\ASUS\C_Sharp\14_Modifier\bin\Debug\net6.0\14_Modifier.deps.json
+C:\Users\ASUS\C_Sharp\14_Modifier\bin\Debug\net6.0\14_Modifier.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\14_Modifier\bin\Debug\net6.0\14_Modifier.dll
+C:\Users\ASUS\C_Sharp\14_Modifier\bin\Debug\net6.0\14_Modifier.pdb
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\14_Modifier.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\14_Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\14_Modifier.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\14_Modifier.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\14_Modifier.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\14_Modifier.dll
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\refint\14_Modifier.dll
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\14_Modifier.pdb
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\14_Modifier.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\14_Modifier\obj\Debug\net6.0\ref\14_Modifier.dll
