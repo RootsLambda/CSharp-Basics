@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\13_Introduceoop\bin\Debug\net6.0\13_Introduceoop.exe
+C:\Users\ASUS\C_Sharp\13_Introduceoop\bin\Debug\net6.0\13_Introduceoop.deps.json
+C:\Users\ASUS\C_Sharp\13_Introduceoop\bin\Debug\net6.0\13_Introduceoop.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\13_Introduceoop\bin\Debug\net6.0\13_Introduceoop.dll
+C:\Users\ASUS\C_Sharp\13_Introduceoop\bin\Debug\net6.0\13_Introduceoop.pdb
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\13_Introduceoop.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\13_Introduceoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\13_Introduceoop.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\13_Introduceoop.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\13_Introduceoop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\13_Introduceoop.dll
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\refint\13_Introduceoop.dll
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\13_Introduceoop.pdb
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\13_Introduceoop.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\13_Introduceoop\obj\Debug\net6.0\ref\13_Introduceoop.dll
