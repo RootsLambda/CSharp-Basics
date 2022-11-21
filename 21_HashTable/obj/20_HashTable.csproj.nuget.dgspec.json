@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\C_Sharp\\20_HashTable\\20_HashTable.csproj": {}
+    "C:\\Users\\ASUS\\C_Sharp\\21_HashTable\\20_HashTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\C_Sharp\\20_HashTable\\20_HashTable.csproj": {
+    "C:\\Users\\ASUS\\C_Sharp\\21_HashTable\\20_HashTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\C_Sharp\\20_HashTable\\20_HashTable.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\C_Sharp\\21_HashTable\\20_HashTable.csproj",
         "projectName": "20_HashTable",
-        "projectPath": "C:\\Users\\ASUS\\C_Sharp\\20_HashTable\\20_HashTable.csproj",
+        "projectPath": "C:\\Users\\ASUS\\C_Sharp\\21_HashTable\\20_HashTable.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\C_Sharp\\20_HashTable\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\C_Sharp\\21_HashTable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

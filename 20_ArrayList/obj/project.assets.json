@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\C_Sharp\\19_ArrayList\\19_ArrayList.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\C_Sharp\\20_ArrayList\\19_ArrayList.csproj",
       "projectName": "19_ArrayList",
-      "projectPath": "C:\\Users\\ASUS\\C_Sharp\\19_ArrayList\\19_ArrayList.csproj",
+      "projectPath": "C:\\Users\\ASUS\\C_Sharp\\20_ArrayList\\19_ArrayList.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\C_Sharp\\19_ArrayList\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\C_Sharp\\20_ArrayList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

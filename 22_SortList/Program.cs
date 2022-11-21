@@ -1,15 +1,27 @@
-﻿using System;
+﻿// File sortedlist.cs
+// Operations with sorted list data structure
+
+/*-----------Note--------------*/
+// 1. Sorted List combine with ArrayList with Hash Table
+// 2. Add(): Add a key and value pair to the SortedList.
+
+using System;
 using System.Collections;
 
 namespace SortList {
-    class Program {  // Ket hop voi ArrayList voi Hash Table
+    class Program {  // 
         static void Main(string[] args) {
             SortedList MySL= new SortedList();
             
             SortedList MySL2= new SortedList(5);
+
             SortedList MySL3= new SortedList(MySL2);
 
             SortedList MySL4 =new SortedList(new PersonComparer());
+
+            MySL4.Add(new Person("Lambda",10), 29);
+
+            MySL4.Add(new Person("Roots",48), 59);
 
 
         }
