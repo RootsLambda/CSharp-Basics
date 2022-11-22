@@ -1,4 +1,12 @@
-﻿using System;
+﻿// File generic.cs
+// Help us understand generics in c sharp
+
+/*-----------Note--------------*/
+// 1. Generic help define a function, a class without specifying the data type argument 
+// 2. You just need to put a certain letter in place of the data type
+// 3. When calling the function you indicate what data type you are manipulating
+
+using System;
 using System.Collections;
 
 namespace Generic {
@@ -9,6 +17,8 @@ namespace Generic {
             Lambda temp=a;
             a=b;
             b=temp;
+
+            Console.WriteLine(a+" and "+b);
         }
         static void Main(string[] args) {
             int a=5,b=7;

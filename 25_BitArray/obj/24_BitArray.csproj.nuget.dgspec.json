@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\C_Sharp\\24_BitArray\\24_BitArray.csproj": {}
+    "C:\\Users\\ASUS\\C_Sharp\\25_BitArray\\24_BitArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\C_Sharp\\24_BitArray\\24_BitArray.csproj": {
+    "C:\\Users\\ASUS\\C_Sharp\\25_BitArray\\24_BitArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\C_Sharp\\24_BitArray\\24_BitArray.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\C_Sharp\\25_BitArray\\24_BitArray.csproj",
         "projectName": "24_BitArray",
-        "projectPath": "C:\\Users\\ASUS\\C_Sharp\\24_BitArray\\24_BitArray.csproj",
+        "projectPath": "C:\\Users\\ASUS\\C_Sharp\\25_BitArray\\24_BitArray.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\C_Sharp\\24_BitArray\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\C_Sharp\\25_BitArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

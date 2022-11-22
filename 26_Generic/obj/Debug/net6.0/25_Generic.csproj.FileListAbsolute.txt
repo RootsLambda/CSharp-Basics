@@ -1,0 +1,15 @@
+C:\Users\ASUS\C_Sharp\26_Generic\bin\Debug\net6.0\25_Generic.exe
+C:\Users\ASUS\C_Sharp\26_Generic\bin\Debug\net6.0\25_Generic.deps.json
+C:\Users\ASUS\C_Sharp\26_Generic\bin\Debug\net6.0\25_Generic.runtimeconfig.json
+C:\Users\ASUS\C_Sharp\26_Generic\bin\Debug\net6.0\25_Generic.dll
+C:\Users\ASUS\C_Sharp\26_Generic\bin\Debug\net6.0\25_Generic.pdb
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\25_Generic.csproj.AssemblyReference.cache
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\25_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\25_Generic.AssemblyInfoInputs.cache
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\25_Generic.AssemblyInfo.cs
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\25_Generic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\25_Generic.dll
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\refint\25_Generic.dll
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\25_Generic.pdb
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\25_Generic.genruntimeconfig.cache
+C:\Users\ASUS\C_Sharp\26_Generic\obj\Debug\net6.0\ref\25_Generic.dll

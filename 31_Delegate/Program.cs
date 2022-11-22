@@ -1,6 +1,13 @@
-﻿using System;
+﻿// File delegate.cs
+// Introduction to delegates in c sharp
+
+/*-------------Note------------*/
+// 1. Delegate is a reference type variable that holds a reference to a method.
+// 2. Declaring Delegate will be similar to declaring a variable
+
+using System;
 using System.Collections;
-// delegate bien thay the cho ham
+
 namespace Delegate
 {
     class Program
@@ -15,13 +22,13 @@ namespace Delegate
 
             int valueConverted =convertToInt(numberSTR);
 
-            Console.WriteLine("Gia tri da convert"+valueConverted);
+            Console.WriteLine("Value convert"+valueConverted);
         }
         static int CovertStringToInt(string stringValue)
         {
             int valueInt=0;
             Int32.TryParse(stringValue, out valueInt);
-            Console.WriteLine("Da ep kieu du lieu");
+            Console.WriteLine("Data type casting successful");
             return valueInt;
         }
     }

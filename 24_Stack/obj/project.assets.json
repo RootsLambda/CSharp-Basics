@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\C_Sharp\\22_Stack\\22_Stack.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\C_Sharp\\24_Stack\\22_Stack.csproj",
       "projectName": "22_Stack",
-      "projectPath": "C:\\Users\\ASUS\\C_Sharp\\22_Stack\\22_Stack.csproj",
+      "projectPath": "C:\\Users\\ASUS\\C_Sharp\\24_Stack\\22_Stack.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\C_Sharp\\22_Stack\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\C_Sharp\\24_Stack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
